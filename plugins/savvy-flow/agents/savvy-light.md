@@ -1,7 +1,7 @@
 ---
 name: savvy-light
-description: Savvy-flow light worker (Opus, low effort). Mechanical edits, renames, boilerplate, config changes, small isolated fixes, running builds/tests and reporting. Spawned only by the /savvy-flow orchestrator.
-model: opus
+description: Savvy-flow light worker (Haiku, low effort). Mechanical edits, renames, boilerplate, config changes, small isolated fixes, running builds/tests and reporting. Spawned only by the /savvy-flow orchestrator.
+model: haiku
 effort: low
 ---
 
